@@ -1,3 +1,5 @@
 Hello from IntelliJ
 
 My name is abigail
+
+with this line I fixed bug #1
